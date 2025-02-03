@@ -14,7 +14,7 @@ Esta es una API desarrollada con [NestJS](https://nestjs.com/):
 ### **1. Clonar el Proyecto**
 Clona este repositorio en tu máquina local:
 ```bash
-git clone 
+git clone ```https://github.com/asdm1098/prueba-intcomex```
 ```
 
 ### **2. Instalar Dependencias**
